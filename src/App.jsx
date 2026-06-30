@@ -169,7 +169,7 @@ function App() {
         <div className="stats">
           <div>
             <FaUsers />
-            <h3>500+</h3>
+            <h3>100+</h3>
             <p>Active Members</p>
           </div>
 
@@ -193,16 +193,24 @@ function App() {
           <p className="eyebrow purple">Contact Us</p>
           <h2>Stay Connected</h2>
           <p>Follow us on social media for the latest updates, events, and club announcements.</p>
+          <a
+            href="guts.uq@gmail.com"
+            className="email-link"
+          >
+            guts.uq@gmail.com
+          </a>
         </div>
 
+        
+
         <div className="social-icons">
-          <a href="https://instagram.com/" target="_blank" rel="noreferrer">
+          <a href="https://www.instagram.com/guts.uq" target="_blank" rel="noreferrer">
             <FaInstagram />
           </a>
-          <a href="https://facebook.com/" target="_blank" rel="noreferrer">
+          <a href="https://www.facebook.com/groups/GUTS.UQ/" target="_blank" rel="noreferrer">
             <FaFacebookF />
           </a>
-          <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/company/uq-guts/" target="_blank" rel="noreferrer">
             <FaLinkedinIn />
           </a>
         </div>
